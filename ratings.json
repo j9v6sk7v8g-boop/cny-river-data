@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14 07:30 ET",
+ "updated": "2026-11-14 09:05 ET",
  "reports": [
   {
    "stretch": "dsrLower",
@@ -57,129 +57,156 @@
   },
   {
    "stretch": "dsrLower",
-   "date": "2026-11-13",
-   "rating": "scattered",
+   "date": "2026-11-09",
+   "rating": "good",
    "scope": "river",
-   "src": "Whitaker's Nov 13",
-   "note": "Steelhead caught throughout the river, scattered top to bottom.",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
   },
   {
    "stretch": "dsrMid",
-   "date": "2026-11-13",
-   "rating": "scattered",
+   "date": "2026-11-09",
+   "rating": "good",
    "scope": "river",
-   "src": "Whitaker's Nov 13",
-   "note": "Steelhead caught throughout the river, scattered top to bottom.",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
   },
   {
    "stretch": "dsrUpper",
-   "date": "2026-11-13",
-   "rating": "scattered",
+   "date": "2026-11-09",
+   "rating": "good",
    "scope": "river",
-   "src": "Whitaker's Nov 13",
-   "note": "Steelhead caught throughout the river, scattered top to bottom.",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
   },
   {
    "stretch": "pulaski",
-   "date": "2026-11-13",
-   "rating": "scattered",
+   "date": "2026-11-09",
+   "rating": "good",
    "scope": "river",
-   "src": "Whitaker's Nov 13",
-   "note": "Steelhead caught throughout the river, scattered top to bottom.",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
   },
   {
    "stretch": "middle",
-   "date": "2026-11-13",
-   "rating": "scattered",
+   "date": "2026-11-09",
+   "rating": "good",
    "scope": "river",
-   "src": "Whitaker's Nov 13",
-   "note": "Steelhead caught throughout the river, scattered top to bottom.",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
   },
   {
    "stretch": "upper",
-   "date": "2026-11-13",
-   "rating": "scattered",
+   "date": "2026-11-09",
+   "rating": "good",
    "scope": "river",
-   "src": "Whitaker's Nov 13",
-   "note": "Steelhead caught throughout the river, scattered top to bottom.",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
   },
   {
    "stretch": "flyzones",
-   "date": "2026-11-13",
-   "rating": "scattered",
+   "date": "2026-11-09",
+   "rating": "good",
    "scope": "river",
-   "src": "Whitaker's Nov 13",
-   "note": "Steelhead caught throughout the river, scattered top to bottom.",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
   },
   {
    "stretch": "dsrLower",
-   "date": "2026-11-09",
+   "date": "2026-11-13",
    "rating": "good",
    "scope": "river",
-   "src": "Paul's Guide Service Nov 9",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "src": "Whitaker's Nov 13",
+   "note": "Most anglers had another good day; steelhead scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
   },
   {
    "stretch": "dsrMid",
-   "date": "2026-11-09",
+   "date": "2026-11-13",
    "rating": "good",
    "scope": "river",
-   "src": "Paul's Guide Service Nov 9",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "src": "Whitaker's Nov 13",
+   "note": "Most anglers had another good day; steelhead scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
   },
   {
    "stretch": "dsrUpper",
-   "date": "2026-11-09",
+   "date": "2026-11-13",
    "rating": "good",
    "scope": "river",
-   "src": "Paul's Guide Service Nov 9",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "src": "Whitaker's Nov 13",
+   "note": "Most anglers had another good day; steelhead scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
   },
   {
    "stretch": "pulaski",
-   "date": "2026-11-09",
+   "date": "2026-11-13",
    "rating": "good",
    "scope": "river",
-   "src": "Paul's Guide Service Nov 9",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "src": "Whitaker's Nov 13",
+   "note": "Most anglers had another good day; steelhead scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
   },
   {
    "stretch": "middle",
-   "date": "2026-11-09",
+   "date": "2026-11-13",
    "rating": "good",
    "scope": "river",
-   "src": "Paul's Guide Service Nov 9",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "src": "Whitaker's Nov 13",
+   "note": "Most anglers had another good day; steelhead scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
   },
   {
    "stretch": "upper",
-   "date": "2026-11-09",
+   "date": "2026-11-13",
    "rating": "good",
    "scope": "river",
-   "src": "Paul's Guide Service Nov 9",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "src": "Whitaker's Nov 13",
+   "note": "Most anglers had another good day; steelhead scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
   },
   {
    "stretch": "flyzones",
-   "date": "2026-11-09",
+   "date": "2026-11-13",
    "rating": "good",
    "scope": "river",
-   "src": "Paul's Guide Service Nov 9",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "src": "Whitaker's Nov 13",
+   "note": "Most anglers had another good day; steelhead scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "dsrUpper",
+   "date": "2026-11-12",
+   "rating": "moderate",
+   "src": "DSR Nov 12 AM (upper)",
+   "note": "Steelhead holding in pools and moving upriver.",
+   "density": "low",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "stretch": "dsrMid",
+   "date": "2026-11-12",
+   "rating": "modgood",
+   "src": "DSR Nov 12 AM (middle)",
+   "note": "Steelhead holding in pools and moving upriver.",
+   "density": "moderate",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "stretch": "dsrLower",
+   "date": "2026-11-12",
+   "rating": "good",
+   "src": "DSR Nov 12 AM (lower)",
+   "note": "Steelhead holding in pools and moving upriver.",
+   "density": "low",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
  "conditions": {
