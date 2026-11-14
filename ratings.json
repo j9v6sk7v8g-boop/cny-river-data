@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13 21:05 ET",
+ "updated": "2026-11-14 07:30 ET",
  "reports": [
   {
    "stretch": "dsrLower",
@@ -117,6 +117,69 @@
    "src": "Whitaker's Nov 13",
    "note": "Steelhead caught throughout the river, scattered top to bottom.",
    "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "dsrLower",
+   "date": "2026-11-09",
+   "rating": "good",
+   "scope": "river",
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
+  },
+  {
+   "stretch": "dsrMid",
+   "date": "2026-11-09",
+   "rating": "good",
+   "scope": "river",
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
+  },
+  {
+   "stretch": "dsrUpper",
+   "date": "2026-11-09",
+   "rating": "good",
+   "scope": "river",
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
+  },
+  {
+   "stretch": "pulaski",
+   "date": "2026-11-09",
+   "rating": "good",
+   "scope": "river",
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
+  },
+  {
+   "stretch": "middle",
+   "date": "2026-11-09",
+   "rating": "good",
+   "scope": "river",
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
+  },
+  {
+   "stretch": "upper",
+   "date": "2026-11-09",
+   "rating": "good",
+   "scope": "river",
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
+  },
+  {
+   "stretch": "flyzones",
+   "date": "2026-11-09",
+   "rating": "good",
+   "scope": "river",
+   "src": "Paul's Guide Service Nov 9",
+   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "url": "https://paulsguideservice.com/trip-reports"
   }
  ],
  "conditions": {
