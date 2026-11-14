@@ -1,1 +1,132 @@
-{"updated":null,"stretches":{}}
+{
+ "updated": "2026-11-13 21:05 ET",
+ "reports": [
+  {
+   "stretch": "dsrLower",
+   "date": "2026-11-13",
+   "rating": "slowmod",
+   "src": "DSR Nov 13 (whole DSR)",
+   "note": "Slow to moderate across the DSR, steelhead only, high angler density, 42°F.",
+   "density": "high",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "stretch": "dsrMid",
+   "date": "2026-11-13",
+   "rating": "slowmod",
+   "src": "DSR Nov 13 (whole DSR)",
+   "note": "Slow to moderate across the DSR, steelhead only, high angler density, 42°F.",
+   "density": "high",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "stretch": "dsrUpper",
+   "date": "2026-11-13",
+   "rating": "slowmod",
+   "src": "DSR Nov 13 (whole DSR)",
+   "note": "Slow to moderate across the DSR, steelhead only, high angler density, 42°F.",
+   "density": "high",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "stretch": "dsrUpper",
+   "date": "2026-11-12",
+   "rating": "slow",
+   "src": "DSR Nov 12 PM (upper)",
+   "note": "Slow; fish mostly moving upriver; quiet.",
+   "density": "low",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "stretch": "dsrMid",
+   "date": "2026-11-12",
+   "rating": "modgood",
+   "src": "DSR Nov 12 PM (middle)",
+   "note": "Moderate to good; fish holding in pools and moving up.",
+   "density": "low",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "stretch": "dsrLower",
+   "date": "2026-11-12",
+   "rating": "good",
+   "src": "DSR Nov 12 PM (lower)",
+   "note": "Good just above the estuary; fish holding in pools.",
+   "density": "low",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "stretch": "dsrLower",
+   "date": "2026-11-13",
+   "rating": "scattered",
+   "scope": "river",
+   "src": "Whitaker's Nov 13",
+   "note": "Steelhead caught throughout the river, scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "dsrMid",
+   "date": "2026-11-13",
+   "rating": "scattered",
+   "scope": "river",
+   "src": "Whitaker's Nov 13",
+   "note": "Steelhead caught throughout the river, scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "dsrUpper",
+   "date": "2026-11-13",
+   "rating": "scattered",
+   "scope": "river",
+   "src": "Whitaker's Nov 13",
+   "note": "Steelhead caught throughout the river, scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "pulaski",
+   "date": "2026-11-13",
+   "rating": "scattered",
+   "scope": "river",
+   "src": "Whitaker's Nov 13",
+   "note": "Steelhead caught throughout the river, scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "middle",
+   "date": "2026-11-13",
+   "rating": "scattered",
+   "scope": "river",
+   "src": "Whitaker's Nov 13",
+   "note": "Steelhead caught throughout the river, scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "upper",
+   "date": "2026-11-13",
+   "rating": "scattered",
+   "scope": "river",
+   "src": "Whitaker's Nov 13",
+   "note": "Steelhead caught throughout the river, scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "flyzones",
+   "date": "2026-11-13",
+   "rating": "scattered",
+   "scope": "river",
+   "src": "Whitaker's Nov 13",
+   "note": "Steelhead caught throughout the river, scattered top to bottom.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  }
+ ],
+ "conditions": {
+  "date": "2026-11-13",
+  "water_f": 42,
+  "water_src": "DSR, Nov 13 AM",
+  "dam_cfs": 185,
+  "pineville_cfs": 260,
+  "crowded": true
+ },
+ "colors": [],
+ "errors": []
+}
