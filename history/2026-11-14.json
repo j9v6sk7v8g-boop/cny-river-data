@@ -1,0 +1,263 @@
+{
+ "reports": [
+  {
+   "stretch": "dsrLower",
+   "date": "2026-11-14",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 14",
+   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "dsrLower",
+   "date": "2026-11-12",
+   "rating": "good",
+   "scope": "river",
+   "src": "On The Water Nov 12",
+   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "url": "https://onthewater.com/fishing-reports/2026/11/upstate-and-western-new-york-fishing-report-november-12-2026"
+  },
+  {
+   "stretch": "dsrMid",
+   "date": "2026-11-14",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 14",
+   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "dsrMid",
+   "date": "2026-11-12",
+   "rating": "good",
+   "scope": "river",
+   "src": "On The Water Nov 12",
+   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "url": "https://onthewater.com/fishing-reports/2026/11/upstate-and-western-new-york-fishing-report-november-12-2026"
+  },
+  {
+   "stretch": "dsrUpper",
+   "date": "2026-11-14",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 14",
+   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "dsrUpper",
+   "date": "2026-11-12",
+   "rating": "good",
+   "scope": "river",
+   "src": "On The Water Nov 12",
+   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "url": "https://onthewater.com/fishing-reports/2026/11/upstate-and-western-new-york-fishing-report-november-12-2026"
+  },
+  {
+   "stretch": "pulaski",
+   "date": "2026-11-14",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 14",
+   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "pulaski",
+   "date": "2026-11-12",
+   "rating": "good",
+   "scope": "river",
+   "src": "On The Water Nov 12",
+   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "url": "https://onthewater.com/fishing-reports/2026/11/upstate-and-western-new-york-fishing-report-november-12-2026"
+  },
+  {
+   "stretch": "middle",
+   "date": "2026-11-14",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 14",
+   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "middle",
+   "date": "2026-11-12",
+   "rating": "good",
+   "scope": "river",
+   "src": "On The Water Nov 12",
+   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "url": "https://onthewater.com/fishing-reports/2026/11/upstate-and-western-new-york-fishing-report-november-12-2026"
+  },
+  {
+   "stretch": "upper",
+   "date": "2026-11-14",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 14",
+   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "upper",
+   "date": "2026-11-12",
+   "rating": "good",
+   "scope": "river",
+   "src": "On The Water Nov 12",
+   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "url": "https://onthewater.com/fishing-reports/2026/11/upstate-and-western-new-york-fishing-report-november-12-2026"
+  },
+  {
+   "stretch": "flyzones",
+   "date": "2026-11-14",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 14",
+   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "url": "https://whitakers.com/blogs/daily-report"
+  },
+  {
+   "stretch": "flyzones",
+   "date": "2026-11-12",
+   "rating": "good",
+   "scope": "river",
+   "src": "On The Water Nov 12",
+   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "url": "https://onthewater.com/fishing-reports/2026/11/upstate-and-western-new-york-fishing-report-november-12-2026"
+  },
+  {
+   "stretch": "dsrLower",
+   "date": "2026-11-14",
+   "rating": "slowmod",
+   "src": "DSR Nov 14 (whole DSR)",
+   "note": "Slow to moderate across the DSR, high angler density, 43°F.",
+   "density": "high",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "stretch": "dsrMid",
+   "date": "2026-11-14",
+   "rating": "slowmod",
+   "src": "DSR Nov 14 (whole DSR)",
+   "note": "Slow to moderate across the DSR, high angler density, 43°F.",
+   "density": "high",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "stretch": "dsrUpper",
+   "date": "2026-11-14",
+   "rating": "slowmod",
+   "src": "DSR Nov 14 (whole DSR)",
+   "note": "Slow to moderate across the DSR, high angler density, 43°F.",
+   "density": "high",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  }
+ ],
+ "conditions": {
+  "date": "2026-11-14",
+  "water_f": 43,
+  "water_src": "DSR, Nov 14 AM",
+  "dam_cfs": 185,
+  "pineville_cfs": 260,
+  "crowded": true
+ },
+ "colors": [
+  {
+   "color": "natural",
+   "date": "2026-11-12",
+   "src": "On The Water Nov 12"
+  },
+  {
+   "color": "tangerine",
+   "date": "2026-11-12",
+   "src": "On The Water Nov 12"
+  },
+  {
+   "color": "peach",
+   "date": "2026-11-12",
+   "src": "On The Water Nov 12"
+  },
+  {
+   "color": "cheese",
+   "date": "2026-11-12",
+   "src": "On The Water Nov 12"
+  },
+  {
+   "color": "cream",
+   "date": "2026-11-12",
+   "src": "On The Water Nov 12"
+  },
+  {
+   "color": "white",
+   "date": "2026-11-12",
+   "src": "On The Water Nov 12"
+  },
+  {
+   "color": "blue",
+   "date": "2026-11-12",
+   "src": "On The Water Nov 12"
+  },
+  {
+   "color": "pink",
+   "date": "2026-11-12",
+   "src": "On The Water Nov 12"
+  },
+  {
+   "color": "purple",
+   "date": "2026-11-12",
+   "src": "On The Water Nov 12"
+  },
+  {
+   "color": "chartreuse",
+   "date": "2026-11-12",
+   "src": "On The Water Nov 12"
+  }
+ ],
+ "catskills": [
+  {
+   "river": "wb",
+   "date": "2026-11-13",
+   "rating": "moderate",
+   "spawn": true,
+   "src": "Trout Town Flies Nov 13",
+   "note": "Upper West a best bet but fish spawning: protect redds, target rainbows; streamers, nymphs, olives and caddis."
+  },
+  {
+   "river": "eb",
+   "date": "2026-11-13",
+   "rating": "modgood",
+   "src": "Trout Town Flies Nov 13",
+   "note": "Upper East a best bet; wadeable at Harvard 453 cfs, 43.5°F; streamers, nymphs, olives, caddis."
+  },
+  {
+   "river": "bk",
+   "date": "2026-11-13",
+   "rating": "slowmod",
+   "src": "Trout Town Flies Nov 13",
+   "note": "High (1,430 cfs), tinted, limited wading, 44°F."
+  },
+  {
+   "river": "wm",
+   "date": "2026-11-13",
+   "rating": "slowmod",
+   "src": "Trout Town Flies Nov 13",
+   "note": "327 cfs, tinted, limited wading, 44°F."
+  },
+  {
+   "river": "ns",
+   "date": "2026-11-13",
+   "rating": "moderate",
+   "src": "Trout Town Flies Nov 13",
+   "note": "Bridgeville 238 cfs, 46°F, wadeable."
+  },
+  {
+   "river": "wb",
+   "date": "2026-11-09",
+   "rating": "slow",
+   "spawn": true,
+   "src": "West Branch Angler Nov 9",
+   "note": "Fish spawning; leave them alone. Streamers black, white or olive #4–6 if you go."
+  }
+ ]
+}
