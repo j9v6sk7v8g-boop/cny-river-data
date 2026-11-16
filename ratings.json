@@ -111,12 +111,17 @@
    "color": "glo roe",
    "date": "2026-11-12",
    "src": "On The Water Nov 12"
+  },
+  {
+   "color": "pink 8 mm",
+   "date": "2026-11-15",
+   "src": "angler intel Nov 15"
   }
  ],
  "conditions": {
   "crowded": false,
   "dam_cfs": 185,
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "pineville_cfs": 256,
   "water_f": 41,
   "water_src": "DSR Nov 15"
@@ -124,15 +129,96 @@
  "errors": [
   "Dette Flies daily report stale (newest Sept 21); not used",
   "Beaverkill weekly report stale (newest Oct 4, 2026); not used",
+  "West Branch Angler (Orvis) unchanged since Nov 9; existing row retained",
   "Trout Town Flies: web search returned no current report page; previous Nov 13 rows retained",
   "Catskills web search: no reports dated within 10 days found",
-  "DSR reports Nov 13–15 give whole-run ratings only, no section breakdown or colors"
+  "DSR: no new report for Nov 16 yet; Nov 13–15 reports give whole-run ratings only, no colors",
+  "Paul's Guide Service: no Salmon River report newer than Nov 9"
  ],
  "reports": [
   {
+   "date": "2026-11-16",
+   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 16",
+   "stretch": "dsrLower",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
+  },
+  {
+   "date": "2026-11-16",
+   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 16",
+   "stretch": "dsrMid",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
+  },
+  {
+   "date": "2026-11-16",
+   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 16",
+   "stretch": "dsrUpper",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
+  },
+  {
+   "date": "2026-11-16",
+   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 16",
+   "stretch": "pulaski",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
+  },
+  {
+   "date": "2026-11-16",
+   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 16",
+   "stretch": "middle",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
+  },
+  {
+   "date": "2026-11-16",
+   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 16",
+   "stretch": "upper",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
+  },
+  {
+   "date": "2026-11-16",
+   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
+   "rating": "moderate",
+   "scope": "river",
+   "src": "Whitaker's Nov 16",
+   "stretch": "flyzones",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
+  },
+  {
+   "date": "2026-11-15",
+   "density": "low",
+   "note": "",
+   "rating": "slow",
+   "src": "angler intel Nov 15",
+   "stretch": "pulaski"
+  },
+  {
+   "date": "2026-11-15",
+   "density": "high",
+   "note": "",
+   "rating": "moderate",
+   "src": "angler intel Nov 15",
+   "stretch": "upper"
+  },
+  {
    "date": "2026-11-15",
    "density": "moderate",
-   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, leaves not an issue.",
+   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, 41°F.",
    "rating": "moderate",
    "src": "DSR Nov 15 (whole DSR)",
    "stretch": "dsrLower",
@@ -141,7 +227,7 @@
   {
    "date": "2026-11-15",
    "density": "moderate",
-   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, leaves not an issue.",
+   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, 41°F.",
    "rating": "moderate",
    "src": "DSR Nov 15 (whole DSR)",
    "stretch": "dsrMid",
@@ -150,7 +236,7 @@
   {
    "date": "2026-11-15",
    "density": "moderate",
-   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, leaves not an issue.",
+   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, 41°F.",
    "rating": "moderate",
    "src": "DSR Nov 15 (whole DSR)",
    "stretch": "dsrUpper",
@@ -580,5 +666,5 @@
    "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   }
  ],
- "updated": "2026-11-15 19:47 ET"
+ "updated": "2026-11-16 12:48 ET"
 }
