@@ -62,15 +62,42 @@
    "src": "DEC hotline Nov 13–20",
    "stretch": "dsrLower",
    "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-15",
+   "density": "moderate",
+   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, leaves not an issue.",
+   "rating": "moderate",
+   "src": "DSR Nov 15 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-15",
+   "density": "moderate",
+   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, leaves not an issue.",
+   "rating": "moderate",
+   "src": "DSR Nov 15 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-15",
+   "density": "moderate",
+   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, leaves not an issue.",
+   "rating": "moderate",
+   "src": "DSR Nov 15 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
  "conditions": {
-  "crowded": true,
+  "crowded": false,
   "dam_cfs": 185,
-  "date": "2026-11-14",
-  "pineville_cfs": 260,
-  "water_f": 43,
-  "water_src": "DSR Nov 14"
+  "date": "2026-11-15",
+  "pineville_cfs": 256,
+  "water_f": 41,
+  "water_src": "DSR Nov 15"
  },
  "colors": [
   {

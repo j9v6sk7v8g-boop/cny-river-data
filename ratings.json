@@ -114,89 +114,115 @@
   }
  ],
  "conditions": {
-  "crowded": true,
+  "crowded": false,
   "dam_cfs": 185,
-  "date": "2026-11-14",
-  "pineville_cfs": 260,
-  "water_f": 43,
-  "water_src": "DSR Nov 14"
+  "date": "2026-11-15",
+  "pineville_cfs": 256,
+  "water_f": 41,
+  "water_src": "DSR Nov 15"
  },
  "errors": [
-  "DSR: no report dated Nov 15 yet; newest is Nov 14 (no section breakdown, no colors).",
-  "Paul's Guide Service: only listing teasers read; newest Salmon River report Nov 9.",
-  "DEC hotline flow figures are as of Nov 4.",
-  "Dette Flies: newest report found dated Sept 21 (stale).",
-  "Beaverkill weekly report: newest Oct 4 (stale).",
-  "Trout Town Flies / Catskills search: no new report within 10 days found; kept Nov 13 rows."
+  "Dette Flies daily report stale (newest Sept 21); not used",
+  "Beaverkill weekly report stale (newest Oct 4, 2026); not used",
+  "Trout Town Flies: web search returned no current report page; previous Nov 13 rows retained",
+  "Catskills web search: no reports dated within 10 days found",
+  "DSR reports Nov 13–15 give whole-run ratings only, no section breakdown or colors"
  ],
  "reports": [
   {
+   "date": "2026-11-15",
+   "density": "moderate",
+   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, leaves not an issue.",
+   "rating": "moderate",
+   "src": "DSR Nov 15 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-15",
+   "density": "moderate",
+   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, leaves not an issue.",
+   "rating": "moderate",
+   "src": "DSR Nov 15 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-15",
+   "density": "moderate",
+   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, leaves not an issue.",
+   "rating": "moderate",
+   "src": "DSR Nov 15 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
    "date": "2026-11-14",
-   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
    "rating": "moderate",
    "scope": "river",
    "src": "Whitaker's Nov 14",
    "stretch": "upper",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
   },
   {
    "date": "2026-11-14",
-   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
    "rating": "moderate",
    "scope": "river",
    "src": "Whitaker's Nov 14",
    "stretch": "pulaski",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
   },
   {
    "date": "2026-11-14",
-   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
    "rating": "moderate",
    "scope": "river",
    "src": "Whitaker's Nov 14",
    "stretch": "middle",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
   },
   {
    "date": "2026-11-14",
-   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
    "rating": "moderate",
    "scope": "river",
    "src": "Whitaker's Nov 14",
    "stretch": "flyzones",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
   },
   {
    "date": "2026-11-14",
-   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
    "rating": "moderate",
    "scope": "river",
    "src": "Whitaker's Nov 14",
    "stretch": "dsrUpper",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
   },
   {
    "date": "2026-11-14",
-   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
    "rating": "moderate",
    "scope": "river",
    "src": "Whitaker's Nov 14",
    "stretch": "dsrMid",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
   },
   {
    "date": "2026-11-14",
-   "note": "Mixed: some groups did really well, others slow; steelhead scattered in pocket and transition water.",
+   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
    "rating": "moderate",
    "scope": "river",
    "src": "Whitaker's Nov 14",
    "stretch": "dsrLower",
-   "url": "https://whitakers.com/blogs/daily-report"
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
   },
   {
    "date": "2026-11-14",
    "density": "high",
-   "note": "Slow to moderate across the DSR, high angler density, 43°F.",
+   "note": "Slow to moderate steelhead action across the run with heavy angler pressure.",
    "rating": "slowmod",
    "src": "DSR Nov 14 (whole DSR)",
    "stretch": "dsrUpper",
@@ -205,7 +231,7 @@
   {
    "date": "2026-11-14",
    "density": "high",
-   "note": "Slow to moderate across the DSR, high angler density, 43°F.",
+   "note": "Slow to moderate steelhead action across the run with heavy angler pressure.",
    "rating": "slowmod",
    "src": "DSR Nov 14 (whole DSR)",
    "stretch": "dsrMid",
@@ -214,7 +240,7 @@
   {
    "date": "2026-11-14",
    "density": "high",
-   "note": "Slow to moderate across the DSR, high angler density, 43°F.",
+   "note": "Slow to moderate steelhead action across the run with heavy angler pressure.",
    "rating": "slowmod",
    "src": "DSR Nov 14 (whole DSR)",
    "stretch": "dsrLower",
@@ -312,7 +338,7 @@
   },
   {
    "date": "2026-11-13",
-   "note": "Salmon fishing slowing river-wide; brown trout and a few steelhead caught; Lower Fly open. Try eggs or beads.",
+   "note": "Salmon tapering off; browns and a few steelhead caught on floated eggs or beads.",
    "rating": "slow",
    "scope": "river",
    "src": "DEC hotline Nov 13–20",
@@ -321,7 +347,7 @@
   },
   {
    "date": "2026-11-13",
-   "note": "Salmon fishing slowing river-wide; brown trout and a few steelhead caught; Lower Fly open. Try eggs or beads.",
+   "note": "Salmon tapering off; browns and a few steelhead caught on floated eggs or beads.",
    "rating": "slow",
    "scope": "river",
    "src": "DEC hotline Nov 13–20",
@@ -330,7 +356,7 @@
   },
   {
    "date": "2026-11-13",
-   "note": "Salmon fishing slowing river-wide; brown trout and a few steelhead caught; Lower Fly open. Try eggs or beads.",
+   "note": "Salmon tapering off; browns and a few steelhead caught on floated eggs or beads.",
    "rating": "slow",
    "scope": "river",
    "src": "DEC hotline Nov 13–20",
@@ -339,7 +365,7 @@
   },
   {
    "date": "2026-11-13",
-   "note": "Salmon fishing slowing river-wide; brown trout and a few steelhead caught; Lower Fly open. Try eggs or beads.",
+   "note": "Salmon tapering off; browns and a few steelhead caught on floated eggs or beads.",
    "rating": "slow",
    "scope": "river",
    "src": "DEC hotline Nov 13–20",
@@ -348,7 +374,7 @@
   },
   {
    "date": "2026-11-13",
-   "note": "Salmon fishing slowing river-wide; brown trout and a few steelhead caught; Lower Fly open. Try eggs or beads.",
+   "note": "Salmon tapering off; browns and a few steelhead caught on floated eggs or beads.",
    "rating": "slow",
    "scope": "river",
    "src": "DEC hotline Nov 13–20",
@@ -357,7 +383,7 @@
   },
   {
    "date": "2026-11-13",
-   "note": "Salmon fishing slowing river-wide; brown trout and a few steelhead caught; Lower Fly open. Try eggs or beads.",
+   "note": "Salmon tapering off; browns and a few steelhead caught on floated eggs or beads.",
    "rating": "slow",
    "scope": "river",
    "src": "DEC hotline Nov 13–20",
@@ -366,7 +392,7 @@
   },
   {
    "date": "2026-11-13",
-   "note": "Salmon fishing slowing river-wide; brown trout and a few steelhead caught; Lower Fly open. Try eggs or beads.",
+   "note": "Salmon tapering off; browns and a few steelhead caught on floated eggs or beads.",
    "rating": "slow",
    "scope": "river",
    "src": "DEC hotline Nov 13–20",
@@ -375,7 +401,7 @@
   },
   {
    "date": "2026-11-12",
-   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "note": "Steelhead in big numbers from DSR to Upper Fly; target faster water below spawning areas.",
    "rating": "good",
    "scope": "river",
    "src": "On The Water Nov 12",
@@ -384,7 +410,7 @@
   },
   {
    "date": "2026-11-12",
-   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "note": "Steelhead in big numbers from DSR to Upper Fly; target faster water below spawning areas.",
    "rating": "good",
    "scope": "river",
    "src": "On The Water Nov 12",
@@ -393,7 +419,7 @@
   },
   {
    "date": "2026-11-12",
-   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "note": "Steelhead in big numbers from DSR to Upper Fly; target faster water below spawning areas.",
    "rating": "good",
    "scope": "river",
    "src": "On The Water Nov 12",
@@ -402,7 +428,7 @@
   },
   {
    "date": "2026-11-12",
-   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "note": "Steelhead in big numbers from DSR to Upper Fly; target faster water below spawning areas.",
    "rating": "good",
    "scope": "river",
    "src": "On The Water Nov 12",
@@ -411,7 +437,7 @@
   },
   {
    "date": "2026-11-12",
-   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "note": "Steelhead in big numbers from DSR to Upper Fly; target faster water below spawning areas.",
    "rating": "good",
    "scope": "river",
    "src": "On The Water Nov 12",
@@ -420,7 +446,7 @@
   },
   {
    "date": "2026-11-12",
-   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "note": "Steelhead in big numbers from DSR to Upper Fly; target faster water below spawning areas.",
    "rating": "good",
    "scope": "river",
    "src": "On The Water Nov 12",
@@ -429,7 +455,7 @@
   },
   {
    "date": "2026-11-12",
-   "note": "Big numbers of steelhead throughout the river, DSR to Upper Fly; schools in faster water behind spawners.",
+   "note": "Steelhead in big numbers from DSR to Upper Fly; target faster water below spawning areas.",
    "rating": "good",
    "scope": "river",
    "src": "On The Water Nov 12",
@@ -492,67 +518,67 @@
   },
   {
    "date": "2026-11-09",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "note": "Steelhead fishing excellent, fish spread river-wide in faster seams; egg patterns under indicator best.",
    "rating": "good",
    "scope": "river",
    "src": "Paul's Guide Service Nov 9",
    "stretch": "upper",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   },
   {
    "date": "2026-11-09",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "note": "Steelhead fishing excellent, fish spread river-wide in faster seams; egg patterns under indicator best.",
    "rating": "good",
    "scope": "river",
    "src": "Paul's Guide Service Nov 9",
    "stretch": "pulaski",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   },
   {
    "date": "2026-11-09",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "note": "Steelhead fishing excellent, fish spread river-wide in faster seams; egg patterns under indicator best.",
    "rating": "good",
    "scope": "river",
    "src": "Paul's Guide Service Nov 9",
    "stretch": "middle",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   },
   {
    "date": "2026-11-09",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "note": "Steelhead fishing excellent, fish spread river-wide in faster seams; egg patterns under indicator best.",
    "rating": "good",
    "scope": "river",
    "src": "Paul's Guide Service Nov 9",
    "stretch": "flyzones",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   },
   {
    "date": "2026-11-09",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "note": "Steelhead fishing excellent, fish spread river-wide in faster seams; egg patterns under indicator best.",
    "rating": "good",
    "scope": "river",
    "src": "Paul's Guide Service Nov 9",
    "stretch": "dsrUpper",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   },
   {
    "date": "2026-11-09",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "note": "Steelhead fishing excellent, fish spread river-wide in faster seams; egg patterns under indicator best.",
    "rating": "good",
    "scope": "river",
    "src": "Paul's Guide Service Nov 9",
    "stretch": "dsrMid",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   },
   {
    "date": "2026-11-09",
-   "note": "Excellent steelhead fishing with fish spread throughout the river; 343 cfs at Pineville, 45°F.",
+   "note": "Steelhead fishing excellent, fish spread river-wide in faster seams; egg patterns under indicator best.",
    "rating": "good",
    "scope": "river",
    "src": "Paul's Guide Service Nov 9",
    "stretch": "dsrLower",
-   "url": "https://paulsguideservice.com/trip-reports"
+   "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   }
  ],
- "updated": "2026-11-15 12:47 ET"
+ "updated": "2026-11-15 19:47 ET"
 }
