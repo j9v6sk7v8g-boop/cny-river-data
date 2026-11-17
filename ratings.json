@@ -119,20 +119,22 @@
   }
  ],
  "conditions": {
-  "crowded": false,
+  "crowded": true,
   "dam_cfs": 185,
   "date": "2026-11-16",
-  "pineville_cfs": 256,
+  "pineville_cfs": 248,
   "water_f": 41,
-  "water_src": "DSR Nov 15"
+  "water_src": "DSR Nov 16"
  },
  "errors": [
   "Dette Flies daily report stale (newest Sept 21); not used",
   "Beaverkill weekly report stale (newest Oct 4, 2026); not used",
   "West Branch Angler (Orvis) unchanged since Nov 9; existing row retained",
-  "Trout Town Flies: web search returned no current report page; previous Nov 13 rows retained",
+  "Trout Town Flies: site returned no content and web search found no current report; previous Nov 13 rows retained",
   "Catskills web search: no reports dated within 10 days found",
-  "DSR: no new report for Nov 16 yet; Nov 13–15 reports give whole-run ratings only, no colors",
+  "DSR Nov 13–16 reports give whole-run ratings only, no AM/PM, sections or colors",
+  "Whitaker's: no report newer than Nov 16; no places or colors named",
+  "On The Water: newest is Nov 12; DEC hotline Nov 13–20 unchanged",
   "Paul's Guide Service: no Salmon River report newer than Nov 9"
  ],
  "reports": [
@@ -198,6 +200,33 @@
    "src": "Whitaker's Nov 16",
    "stretch": "flyzones",
    "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
+  },
+  {
+   "date": "2026-11-16",
+   "density": "high",
+   "note": "Moderate to good across the run, most anglers hooking steelhead; heavy pressure, 41°F.",
+   "rating": "modgood",
+   "src": "DSR Nov 16 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
+  },
+  {
+   "date": "2026-11-16",
+   "density": "high",
+   "note": "Moderate to good across the run, most anglers hooking steelhead; heavy pressure, 41°F.",
+   "rating": "modgood",
+   "src": "DSR Nov 16 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
+  },
+  {
+   "date": "2026-11-16",
+   "density": "high",
+   "note": "Moderate to good across the run, most anglers hooking steelhead; heavy pressure, 41°F.",
+   "rating": "modgood",
+   "src": "DSR Nov 16 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
   },
   {
    "date": "2026-11-15",
@@ -666,5 +695,5 @@
    "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   }
  ],
- "updated": "2026-11-16 12:48 ET"
+ "updated": "2026-11-16 19:48 ET"
 }

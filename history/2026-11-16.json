@@ -78,15 +78,42 @@
    "rating": "moderate",
    "src": "angler intel Nov 15",
    "stretch": "upper"
+  },
+  {
+   "date": "2026-11-16",
+   "density": "high",
+   "note": "Moderate to good across the run, most anglers hooking steelhead; heavy pressure, 41°F.",
+   "rating": "modgood",
+   "src": "DSR Nov 16 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
+  },
+  {
+   "date": "2026-11-16",
+   "density": "high",
+   "note": "Moderate to good across the run, most anglers hooking steelhead; heavy pressure, 41°F.",
+   "rating": "modgood",
+   "src": "DSR Nov 16 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
+  },
+  {
+   "date": "2026-11-16",
+   "density": "high",
+   "note": "Moderate to good across the run, most anglers hooking steelhead; heavy pressure, 41°F.",
+   "rating": "modgood",
+   "src": "DSR Nov 16 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
   }
  ],
  "conditions": {
-  "crowded": false,
+  "crowded": true,
   "dam_cfs": 185,
   "date": "2026-11-16",
-  "pineville_cfs": 256,
+  "pineville_cfs": 248,
   "water_f": 41,
-  "water_src": "DSR Nov 15"
+  "water_src": "DSR Nov 16"
  },
  "colors": [
   {
