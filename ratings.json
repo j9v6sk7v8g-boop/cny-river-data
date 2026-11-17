@@ -121,7 +121,7 @@
  "conditions": {
   "crowded": true,
   "dam_cfs": 185,
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "pineville_cfs": 248,
   "water_f": 41,
   "water_src": "DSR Nov 16"
@@ -129,13 +129,12 @@
  "errors": [
   "Dette Flies daily report stale (newest Sept 21); not used",
   "Beaverkill weekly report stale (newest Oct 4, 2026); not used",
-  "West Branch Angler (Orvis) unchanged since Nov 9; existing row retained",
-  "Trout Town Flies: site returned no content and web search found no current report; previous Nov 13 rows retained",
-  "Catskills web search: no reports dated within 10 days found",
-  "DSR Nov 13–16 reports give whole-run ratings only, no AM/PM, sections or colors",
-  "Whitaker's: no report newer than Nov 16; no places or colors named",
+  "West Branch Angler (Orvis) still last updated Nov 9; existing row retained",
+  "Trout Town Flies / Catskills web searches found no reports dated within 10 days; previous rows retained",
+  "DSR: no report newer than Nov 16; whole-run ratings only, no AM/PM, sections or colors",
+  "Whitaker's: no report newer than Nov 16; no places or colors named (site header shows 43F, undated)",
   "On The Water: newest is Nov 12; DEC hotline Nov 13–20 unchanged",
-  "Paul's Guide Service: no Salmon River report newer than Nov 9"
+  "Paul's Guide Service: newest Salmon River report Nov 9, older than 7 days; not added as new"
  ],
  "reports": [
   {
@@ -695,5 +694,5 @@
    "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   }
  ],
- "updated": "2026-11-16 19:48 ET"
+ "updated": "2026-11-17 12:47 ET"
 }
