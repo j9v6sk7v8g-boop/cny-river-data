@@ -1,6 +1,15 @@
 {
  "catskills": [
   {
+   "date": "2026-11-16",
+   "note": "Not fishing; fish spawning, leave them alone. If going: Clousers, Deceivers, Buggers in black, white, olive #4–6.",
+   "rating": "slow",
+   "river": "wb",
+   "spawn": true,
+   "src": "West Branch Angler Nov 16",
+   "url": "https://fishingreports.orvis.com/northeast/new-york/delaware-river-west-branch"
+  },
+  {
    "date": "2026-11-13",
    "note": "Upper West a best bet but fish spawning: protect redds, target rainbows; streamers, nymphs, olives and caddis.",
    "rating": "moderate",
@@ -127,14 +136,14 @@
   "water_src": "DSR Nov 16"
  },
  "errors": [
+  "DSR: no report newer than Nov 16 (whole-run only; no sections, AM/PM or colors)",
+  "Whitaker's: no report newer than Nov 16; no places or colors named",
+  "On The Water: newest is Nov 12 (weekly); no new rows",
+  "DEC hotline: Nov 13–20 report unchanged",
+  "Paul's Guide Service: newest Salmon River report Nov 9, older than 7 days; not added as new",
   "Dette Flies daily report stale (newest Sept 21); not used",
   "Beaverkill weekly report stale (newest Oct 4, 2026); not used",
-  "West Branch Angler (Orvis) still last updated Nov 9; existing row retained",
-  "Trout Town Flies / Catskills web searches found no reports dated within 10 days; previous rows retained",
-  "DSR: no report newer than Nov 16; whole-run ratings only, no AM/PM, sections or colors",
-  "Whitaker's: no report newer than Nov 16; no places or colors named (site header shows 43F, undated)",
-  "On The Water: newest is Nov 12; DEC hotline Nov 13–20 unchanged",
-  "Paul's Guide Service: newest Salmon River report Nov 9, older than 7 days; not added as new"
+  "Trout Town Flies / Catskills web searches found no reports dated within 10 days"
  ],
  "reports": [
   {
@@ -694,5 +703,5 @@
    "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   }
  ],
- "updated": "2026-11-17 12:47 ET"
+ "updated": "2026-11-17 19:47 ET"
 }

@@ -82,6 +82,15 @@
  ],
  "catskills": [
   {
+   "date": "2026-11-16",
+   "note": "Not fishing; fish spawning, leave them alone. If going: Clousers, Deceivers, Buggers in black, white, olive #4–6.",
+   "rating": "slow",
+   "river": "wb",
+   "spawn": true,
+   "src": "West Branch Angler Nov 16",
+   "url": "https://fishingreports.orvis.com/northeast/new-york/delaware-river-west-branch"
+  },
+  {
    "date": "2026-11-13",
    "note": "Upper West a best bet but fish spawning: protect redds, target rainbows; streamers, nymphs, olives and caddis.",
    "rating": "moderate",
