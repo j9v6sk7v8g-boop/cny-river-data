@@ -128,16 +128,16 @@
   }
  ],
  "conditions": {
-  "crowded": true,
+  "crowded": false,
   "dam_cfs": 185,
   "date": "2026-11-18",
-  "pineville_cfs": 248,
-  "water_f": 41,
-  "water_src": "DSR Nov 17"
+  "pineville_cfs": 244,
+  "water_f": 43,
+  "water_src": "DSR Nov 18"
  },
  "errors": [
-  "DSR: fishing-reports page newest Nov 11; homepage Nov 17 report is whole-run only (no sections, AM/PM or colors)",
-  "Whitaker's Nov 18: no places or colors named; water temp only in undated site widget (43F), not used",
+  "DSR Nov 18: whole-run only, no sections, AM/PM or colors; angler density word 'slow' mapped to low",
+  "Whitaker's Nov 18: unchanged since last run; no places or colors named; site-widget temp not used",
   "On The Water: newest is Nov 12 (weekly); no new rows",
   "DEC hotline: Nov 13–20 report unchanged (flows dated Nov 4)",
   "Paul's Guide Service: newest Salmon River report Nov 9, older than 7 days; not added as new",
@@ -209,6 +209,33 @@
    "src": "Whitaker's Nov 18",
    "stretch": "flyzones",
    "url": "https://whitakers.com/blogs/daily-report/daily-report-1206"
+  },
+  {
+   "date": "2026-11-18",
+   "density": "low",
+   "note": "Moderate across the run, most hookups in middle portion; steelhead and browns; light pressure, 43°F.",
+   "rating": "moderate",
+   "src": "DSR Nov 18 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-18",
+   "density": "low",
+   "note": "Moderate across the run, most hookups in middle portion; steelhead and browns; light pressure, 43°F.",
+   "rating": "moderate",
+   "src": "DSR Nov 18 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-18",
+   "density": "low",
+   "note": "Moderate across the run, most hookups in middle portion; steelhead and browns; light pressure, 43°F.",
+   "rating": "moderate",
+   "src": "DSR Nov 18 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   },
   {
    "date": "2026-11-17",
@@ -794,5 +821,5 @@
    "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   }
  ],
- "updated": "2026-11-18 12:47 ET"
+ "updated": "2026-11-18 19:47 ET"
 }

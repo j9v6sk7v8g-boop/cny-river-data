@@ -89,15 +89,42 @@
    "src": "DSR Nov 17 (whole DSR)",
    "stretch": "dsrUpper",
    "url": "https://douglastonsalmonrun.com/"
+  },
+  {
+   "date": "2026-11-18",
+   "density": "low",
+   "note": "Moderate across the run, most hookups in middle portion; steelhead and browns; light pressure, 43°F.",
+   "rating": "moderate",
+   "src": "DSR Nov 18 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-18",
+   "density": "low",
+   "note": "Moderate across the run, most hookups in middle portion; steelhead and browns; light pressure, 43°F.",
+   "rating": "moderate",
+   "src": "DSR Nov 18 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-18",
+   "density": "low",
+   "note": "Moderate across the run, most hookups in middle portion; steelhead and browns; light pressure, 43°F.",
+   "rating": "moderate",
+   "src": "DSR Nov 18 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
  "conditions": {
-  "crowded": true,
+  "crowded": false,
   "dam_cfs": 185,
   "date": "2026-11-18",
-  "pineville_cfs": 248,
-  "water_f": 41,
-  "water_src": "DSR Nov 17"
+  "pineville_cfs": 244,
+  "water_f": 43,
+  "water_src": "DSR Nov 18"
  },
  "colors": [
   {
