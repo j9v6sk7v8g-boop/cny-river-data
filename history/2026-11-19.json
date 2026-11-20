@@ -62,15 +62,42 @@
    "src": "Whitaker's Nov 19",
    "stretch": "flyzones",
    "url": "https://whitakers.com/blogs/daily-report/daily-report-1207"
+  },
+  {
+   "date": "2026-11-19",
+   "density": "high",
+   "note": "Slow to moderate across the run, best in middle portion; high angler density, 44°F, steelhead and some browns.",
+   "rating": "slowmod",
+   "src": "DSR Nov 19 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/19/115926/"
+  },
+  {
+   "date": "2026-11-19",
+   "density": "high",
+   "note": "Slow to moderate across the run, best in middle portion; high angler density, 44°F, steelhead and some browns.",
+   "rating": "slowmod",
+   "src": "DSR Nov 19 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/19/115926/"
+  },
+  {
+   "date": "2026-11-19",
+   "density": "high",
+   "note": "Slow to moderate across the run, best in middle portion; high angler density, 44°F, steelhead and some browns.",
+   "rating": "slowmod",
+   "src": "DSR Nov 19 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/19/115926/"
   }
  ],
  "conditions": {
-  "crowded": false,
+  "crowded": true,
   "dam_cfs": 185,
   "date": "2026-11-19",
-  "pineville_cfs": 244,
-  "water_f": 43,
-  "water_src": "DSR Nov 18"
+  "pineville_cfs": 236,
+  "water_f": 44,
+  "water_src": "DSR Nov 19"
  },
  "colors": [
   {

@@ -128,22 +128,24 @@
   }
  ],
  "conditions": {
-  "crowded": false,
+  "crowded": true,
   "dam_cfs": 185,
   "date": "2026-11-19",
-  "pineville_cfs": 244,
-  "water_f": 43,
-  "water_src": "DSR Nov 18"
+  "pineville_cfs": 236,
+  "water_f": 44,
+  "water_src": "DSR Nov 19"
  },
  "errors": [
-  "DSR: no report dated Nov 19 posted yet; newest Nov 18.",
+  "DSR Nov 19: no AM/PM or section breakdown; whole-run report only; no colors named.",
+  "Whitaker's Nov 19: no colors or water temp in report body (already recorded).",
   "On The Water: Nov 19 weekly not yet posted; newest Nov 12 (kept).",
+  "DEC hotline Nov 13–20: no change; flows quoted are as of Nov 4.",
   "Paul's Guide Service: newest Salmon River report Nov 9; nothing new.",
-  "Whitaker's Nov 19: no colors or water temp in report body.",
-  "Dette Flies: newest report Sep 21 (stale); page only partly readable.",
+  "Dette Flies: newest report Sep 21 (stale).",
   "Beaverkill weekly: newest report Oct 4 (stale).",
-  "Trout Town Flies: search found no current report.",
-  "Catskills search: no shop reports dated within 10 days found."
+  "West Branch Angler: still Nov 16 update; nothing new.",
+  "Trout Town Flies: newest report Nov 13 (kept); nothing new.",
+  "Catskills search: no other shop reports dated within 10 days found."
  ],
  "reports": [
   {
@@ -208,6 +210,33 @@
    "src": "Whitaker's Nov 19",
    "stretch": "flyzones",
    "url": "https://whitakers.com/blogs/daily-report/daily-report-1207"
+  },
+  {
+   "date": "2026-11-19",
+   "density": "high",
+   "note": "Slow to moderate across the run, best in middle portion; high angler density, 44°F, steelhead and some browns.",
+   "rating": "slowmod",
+   "src": "DSR Nov 19 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/19/115926/"
+  },
+  {
+   "date": "2026-11-19",
+   "density": "high",
+   "note": "Slow to moderate across the run, best in middle portion; high angler density, 44°F, steelhead and some browns.",
+   "rating": "slowmod",
+   "src": "DSR Nov 19 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/19/115926/"
+  },
+  {
+   "date": "2026-11-19",
+   "density": "high",
+   "note": "Slow to moderate across the run, best in middle portion; high angler density, 44°F, steelhead and some browns.",
+   "rating": "slowmod",
+   "src": "DSR Nov 19 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/19/115926/"
   },
   {
    "date": "2026-11-18",
@@ -883,5 +912,5 @@
    "url": "https://paulsguideservice.com/trip-reports/salmon-river-fishing-report-november-9-2026/"
   }
  ],
- "updated": "2026-11-19 12:48 ET"
+ "updated": "2026-11-19 19:47 ET"
 }
