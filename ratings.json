@@ -276,7 +276,7 @@
    "rating": "slowmod",
    "src": "DSR Nov 19 (whole DSR)",
    "stretch": "dsrUpper",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/19/115926/"
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   },
   {
    "date": "2026-11-19",
@@ -285,7 +285,7 @@
    "rating": "slowmod",
    "src": "DSR Nov 19 (whole DSR)",
    "stretch": "dsrMid",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/19/115926/"
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   },
   {
    "date": "2026-11-19",
@@ -294,7 +294,7 @@
    "rating": "slowmod",
    "src": "DSR Nov 19 (whole DSR)",
    "stretch": "dsrLower",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/19/115926/"
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   },
   {
    "date": "2026-11-18",
@@ -366,7 +366,7 @@
    "rating": "moderate",
    "src": "DSR Nov 18 (whole DSR)",
    "stretch": "dsrUpper",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/18/115881/"
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   },
   {
    "date": "2026-11-18",
@@ -375,7 +375,7 @@
    "rating": "moderate",
    "src": "DSR Nov 18 (whole DSR)",
    "stretch": "dsrMid",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/18/115881/"
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   },
   {
    "date": "2026-11-18",
@@ -384,7 +384,7 @@
    "rating": "moderate",
    "src": "DSR Nov 18 (whole DSR)",
    "stretch": "dsrLower",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/18/115881/"
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   },
   {
    "date": "2026-11-17",
@@ -907,5 +907,5 @@
    "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
- "updated": "2026-11-20 12:48 ET"
+ "updated": "2026-11-20 19:47 ET"
 }
