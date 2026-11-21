@@ -125,24 +125,113 @@
  "conditions": {
   "crowded": true,
   "dam_cfs": 185,
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "pineville_cfs": 236,
-  "water_f": 44,
-  "water_src": "DSR Nov 19"
+  "water_f": 45,
+  "water_src": "DSR Nov 20"
  },
  "errors": [
-  "DSR: newest report Nov 19 (no AM/PM or section breakdown; no colors); nothing dated Nov 20 yet.",
-  "Whitaker's: newest report Nov 19 (already recorded); no colors in report body.",
-  "On The Water Nov 19: Salmon subsection gives no flows or water temp; rating from county intro 'excellent'.",
-  "DEC hotline Nov 13–20: unchanged; flows quoted are as of Nov 4.",
+  "DSR: newest report Nov 20 (no AM/PM or section breakdown; no colors).",
+  "Whitaker's: newest report Nov 19 (already recorded; older than D-1).",
+  "On The Water: newest still Nov 19 (already recorded).",
+  "DEC hotline: new Nov 20–27 report; flows quoted as of Nov 18.",
   "Paul's Guide Service: newest Salmon River report Nov 9 (stale, dropped).",
   "Dette Flies: newest report Sep 21 (stale).",
   "Beaverkill weekly: newest report Oct 4 (stale).",
   "West Branch Angler: still Nov 16 update; nothing new.",
-  "Trout Town Flies: search found no report page; Nov 13 row kept.",
-  "Catskills search: no other shop reports dated within 10 days found."
+  "Trout Town Flies / Catskills search: no reports dated within 10 days found."
  ],
  "reports": [
+  {
+   "date": "2026-11-20",
+   "density": "high",
+   "note": "Moderate success, high angler volume; most productivity in middle of the run. 45°F, Pineville 236 cfs.",
+   "rating": "moderate",
+   "src": "DSR Nov 20 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/20/115986/"
+  },
+  {
+   "date": "2026-11-20",
+   "density": "high",
+   "note": "Moderate success, high angler volume; most productivity in middle of the run. 45°F, Pineville 236 cfs.",
+   "rating": "moderate",
+   "src": "DSR Nov 20 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/20/115986/"
+  },
+  {
+   "date": "2026-11-20",
+   "density": "high",
+   "note": "Moderate success, high angler volume; most productivity in middle of the run. 45°F, Pineville 236 cfs.",
+   "rating": "moderate",
+   "src": "DSR Nov 20 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/20/115986/"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–27",
+   "stretch": "dsrLower",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–27",
+   "stretch": "dsrMid",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–27",
+   "stretch": "dsrUpper",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–27",
+   "stretch": "pulaski",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–27",
+   "stretch": "middle",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–27",
+   "stretch": "upper",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–27",
+   "stretch": "flyzones",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
   {
    "date": "2026-11-19",
    "note": "Another good day river-wide; steelhead scattered top to bottom, best early and late; pressure rising, egg patterns producing.",
@@ -907,5 +996,5 @@
    "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
- "updated": "2026-11-20 19:47 ET"
+ "updated": "2026-11-21 12:47 ET"
 }
