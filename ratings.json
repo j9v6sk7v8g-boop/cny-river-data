@@ -131,10 +131,10 @@
   "water_src": "DSR Nov 20"
  },
  "errors": [
-  "DSR: newest report Nov 20 (no AM/PM or section breakdown; no colors).",
-  "Whitaker's: newest report Nov 19 (already recorded; older than D-1).",
+  "DSR: newest report Nov 20 (no AM/PM or section breakdown; no colors; already recorded).",
+  "Whitaker's: new Nov 21 report; no water temp in report body; no colors.",
   "On The Water: newest still Nov 19 (already recorded).",
-  "DEC hotline: new Nov 20–27 report; flows quoted as of Nov 18.",
+  "DEC hotline: Nov 20–27 report unchanged (already recorded).",
   "Paul's Guide Service: newest Salmon River report Nov 9 (stale, dropped).",
   "Dette Flies: newest report Sep 21 (stale).",
   "Beaverkill weekly: newest report Oct 4 (stale).",
@@ -142,6 +142,69 @@
   "Trout Town Flies / Catskills search: no reports dated within 10 days found."
  ],
  "reports": [
+  {
+   "date": "2026-11-21",
+   "note": "Another good day in low water; steelhead scattered top to bottom, best early and late; pressure up.",
+   "rating": "good",
+   "scope": "river",
+   "src": "Whitaker's Nov 21",
+   "stretch": "dsrLower",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1208"
+  },
+  {
+   "date": "2026-11-21",
+   "note": "Another good day in low water; steelhead scattered top to bottom, best early and late; pressure up.",
+   "rating": "good",
+   "scope": "river",
+   "src": "Whitaker's Nov 21",
+   "stretch": "dsrMid",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1208"
+  },
+  {
+   "date": "2026-11-21",
+   "note": "Another good day in low water; steelhead scattered top to bottom, best early and late; pressure up.",
+   "rating": "good",
+   "scope": "river",
+   "src": "Whitaker's Nov 21",
+   "stretch": "dsrUpper",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1208"
+  },
+  {
+   "date": "2026-11-21",
+   "note": "Another good day in low water; steelhead scattered top to bottom, best early and late; pressure up.",
+   "rating": "good",
+   "scope": "river",
+   "src": "Whitaker's Nov 21",
+   "stretch": "pulaski",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1208"
+  },
+  {
+   "date": "2026-11-21",
+   "note": "Another good day in low water; steelhead scattered top to bottom, best early and late; pressure up.",
+   "rating": "good",
+   "scope": "river",
+   "src": "Whitaker's Nov 21",
+   "stretch": "middle",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1208"
+  },
+  {
+   "date": "2026-11-21",
+   "note": "Another good day in low water; steelhead scattered top to bottom, best early and late; pressure up.",
+   "rating": "good",
+   "scope": "river",
+   "src": "Whitaker's Nov 21",
+   "stretch": "upper",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1208"
+  },
+  {
+   "date": "2026-11-21",
+   "note": "Another good day in low water; steelhead scattered top to bottom, best early and late; pressure up.",
+   "rating": "good",
+   "scope": "river",
+   "src": "Whitaker's Nov 21",
+   "stretch": "flyzones",
+   "url": "https://whitakers.com/blogs/daily-report/daily-report-1208"
+  },
   {
    "date": "2026-11-20",
    "density": "high",
@@ -996,5 +1059,5 @@
    "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
- "updated": "2026-11-21 12:47 ET"
+ "updated": "2026-11-21 19:47 ET"
 }
