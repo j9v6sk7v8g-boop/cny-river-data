@@ -125,14 +125,14 @@
  "conditions": {
   "crowded": true,
   "dam_cfs": 185,
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "pineville_cfs": 236,
   "water_f": 45,
-  "water_src": "DSR Nov 20"
+  "water_src": "DSR Nov 21"
  },
  "errors": [
-  "DSR: newest report Nov 20 (no AM/PM or section breakdown; no colors; already recorded).",
-  "Whitaker's: new Nov 21 report; no water temp in report body; no colors.",
+  "DSR: newest report Nov 21 (homepage excerpt; whole-run rating only, no AM/PM, sections or colors).",
+  "Whitaker's: newest still Nov 21 (already recorded); no water temp or colors in report.",
   "On The Water: newest still Nov 19 (already recorded).",
   "DEC hotline: Nov 20–27 report unchanged (already recorded).",
   "Paul's Guide Service: newest Salmon River report Nov 9 (stale, dropped).",
@@ -204,6 +204,33 @@
    "src": "Whitaker's Nov 21",
    "stretch": "flyzones",
    "url": "https://whitakers.com/blogs/daily-report/daily-report-1208"
+  },
+  {
+   "date": "2026-11-21",
+   "density": "high",
+   "note": "Slow to moderate across the run; steelhead mainly, most action still in the middle portion.",
+   "rating": "slowmod",
+   "src": "DSR Nov 21 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/"
+  },
+  {
+   "date": "2026-11-21",
+   "density": "high",
+   "note": "Slow to moderate across the run; steelhead mainly, most action still in the middle portion.",
+   "rating": "slowmod",
+   "src": "DSR Nov 21 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/"
+  },
+  {
+   "date": "2026-11-21",
+   "density": "high",
+   "note": "Slow to moderate across the run; steelhead mainly, most action still in the middle portion.",
+   "rating": "slowmod",
+   "src": "DSR Nov 21 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/"
   },
   {
    "date": "2026-11-20",
@@ -1059,5 +1086,5 @@
    "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
- "updated": "2026-11-21 19:47 ET"
+ "updated": "2026-11-22 12:47 ET"
 }
