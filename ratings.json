@@ -128,11 +128,11 @@
   "date": "2026-11-22",
   "pineville_cfs": 236,
   "water_f": 45,
-  "water_src": "DSR Nov 21"
+  "water_src": "DSR Nov 22"
  },
  "errors": [
-  "DSR: newest report Nov 21 (homepage excerpt; whole-run rating only, no AM/PM, sections or colors).",
-  "Whitaker's: newest still Nov 21 (already recorded); no water temp or colors in report.",
+  "DSR: newest report Nov 22 (whole-run rating only; no AM/PM, sections or colors).",
+  "Whitaker's: newest still Nov 21 (already recorded); no colors named.",
   "On The Water: newest still Nov 19 (already recorded).",
   "DEC hotline: Nov 20–27 report unchanged (already recorded).",
   "Paul's Guide Service: newest Salmon River report Nov 9 (stale, dropped).",
@@ -142,6 +142,33 @@
   "Trout Town Flies / Catskills search: no reports dated within 10 days found."
  ],
  "reports": [
+  {
+   "date": "2026-11-22",
+   "density": "high",
+   "note": "Moderate steelhead success, most productive mid-run; high angler density; 45°F, Pineville 236 cfs.",
+   "rating": "moderate",
+   "src": "DSR Nov 22 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/22/116046/"
+  },
+  {
+   "date": "2026-11-22",
+   "density": "high",
+   "note": "Moderate steelhead success, most productive mid-run; high angler density; 45°F, Pineville 236 cfs.",
+   "rating": "moderate",
+   "src": "DSR Nov 22 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/22/116046/"
+  },
+  {
+   "date": "2026-11-22",
+   "density": "high",
+   "note": "Moderate steelhead success, most productive mid-run; high angler density; 45°F, Pineville 236 cfs.",
+   "rating": "moderate",
+   "src": "DSR Nov 22 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/22/116046/"
+  },
   {
    "date": "2026-11-21",
    "note": "Another good day in low water; steelhead scattered top to bottom, best early and late; pressure up.",
@@ -1086,5 +1113,5 @@
    "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
- "updated": "2026-11-22 12:47 ET"
+ "updated": "2026-11-22 19:47 ET"
 }

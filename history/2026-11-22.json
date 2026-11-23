@@ -26,6 +26,33 @@
    "src": "DSR Nov 21 (whole DSR)",
    "stretch": "dsrUpper",
    "url": "https://douglastonsalmonrun.com/"
+  },
+  {
+   "date": "2026-11-22",
+   "density": "high",
+   "note": "Moderate steelhead success, most productive mid-run; high angler density; 45°F, Pineville 236 cfs.",
+   "rating": "moderate",
+   "src": "DSR Nov 22 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/22/116046/"
+  },
+  {
+   "date": "2026-11-22",
+   "density": "high",
+   "note": "Moderate steelhead success, most productive mid-run; high angler density; 45°F, Pineville 236 cfs.",
+   "rating": "moderate",
+   "src": "DSR Nov 22 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/22/116046/"
+  },
+  {
+   "date": "2026-11-22",
+   "density": "high",
+   "note": "Moderate steelhead success, most productive mid-run; high angler density; 45°F, Pineville 236 cfs.",
+   "rating": "moderate",
+   "src": "DSR Nov 22 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/22/116046/"
   }
  ],
  "conditions": {
@@ -34,7 +61,7 @@
   "date": "2026-11-22",
   "pineville_cfs": 236,
   "water_f": 45,
-  "water_src": "DSR Nov 21"
+  "water_src": "DSR Nov 22"
  },
  "colors": [
   {
