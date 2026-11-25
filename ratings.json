@@ -150,6 +150,11 @@
    "color": "purple",
    "date": "2026-11-24",
    "src": "Whitaker's (Orvis) Nov 24"
+  },
+  {
+   "color": "pink",
+   "date": "2026-11-23",
+   "src": "Whitaker's Nov 23"
   }
  ],
  "conditions": {
@@ -161,12 +166,12 @@
   "water_src": "Whitaker's (Orvis) Nov 24"
  },
  "errors": [
-  "DSR: newest still Nov 23 (whole run moderate, density high, middle portion most productive); no AM/PM, sections or colors.",
-  "Whitaker's blog: newest still Nov 23; Orvis page (by Whitaker's) updated Nov 24 used: fish scattered top to bottom, 44F, fly colors.",
+  "DSR: newest still Nov 23 (whole DSR moderate, density high, middle portion most productive); no AM/PM, sections or colors.",
+  "Whitaker's blog: newest Nov 23 (good day, fish scattered top to bottom); no water temp in post; Nov 24 Orvis rows from earlier run kept.",
   "On The Water: newest still Nov 19.",
   "DEC hotline: Nov 20–27 report unchanged.",
-  "Paul's Guide Service: newest Nov 23 (already recorded).",
-  "Dette Flies: page only partly readable; newest visible entry Sep 21 (stale/unverified).",
+  "Paul's Guide Service: newest Nov 23.",
+  "Dette Flies: page only partly readable; newest visible entry Sep 21 (stale).",
   "Beaverkill weekly: newest report Oct 4 (stale).",
   "West Branch Angler: still Nov 16 update; nothing new.",
   "Trout Town Flies / Catskills search: no reports dated within 10 days found."
@@ -237,7 +242,7 @@
   },
   {
    "date": "2026-11-23",
-   "note": "Most anglers had another good day; steelhead spread top to bottom, holding in pocket and transition water; heavier weekend pressure.",
+   "note": "Good day reported, best early and late; steelhead scattered top to bottom in pocket and transition water; pressure up.",
    "rating": "good",
    "scope": "river",
    "src": "Whitaker's Nov 23",
@@ -246,7 +251,7 @@
   },
   {
    "date": "2026-11-23",
-   "note": "Most anglers had another good day; steelhead spread top to bottom, holding in pocket and transition water; heavier weekend pressure.",
+   "note": "Good day reported, best early and late; steelhead scattered top to bottom in pocket and transition water; pressure up.",
    "rating": "good",
    "scope": "river",
    "src": "Whitaker's Nov 23",
@@ -255,7 +260,7 @@
   },
   {
    "date": "2026-11-23",
-   "note": "Most anglers had another good day; steelhead spread top to bottom, holding in pocket and transition water; heavier weekend pressure.",
+   "note": "Good day reported, best early and late; steelhead scattered top to bottom in pocket and transition water; pressure up.",
    "rating": "good",
    "scope": "river",
    "src": "Whitaker's Nov 23",
@@ -264,7 +269,7 @@
   },
   {
    "date": "2026-11-23",
-   "note": "Most anglers had another good day; steelhead spread top to bottom, holding in pocket and transition water; heavier weekend pressure.",
+   "note": "Good day reported, best early and late; steelhead scattered top to bottom in pocket and transition water; pressure up.",
    "rating": "good",
    "scope": "river",
    "src": "Whitaker's Nov 23",
@@ -273,7 +278,7 @@
   },
   {
    "date": "2026-11-23",
-   "note": "Most anglers had another good day; steelhead spread top to bottom, holding in pocket and transition water; heavier weekend pressure.",
+   "note": "Good day reported, best early and late; steelhead scattered top to bottom in pocket and transition water; pressure up.",
    "rating": "good",
    "scope": "river",
    "src": "Whitaker's Nov 23",
@@ -282,7 +287,7 @@
   },
   {
    "date": "2026-11-23",
-   "note": "Most anglers had another good day; steelhead spread top to bottom, holding in pocket and transition water; heavier weekend pressure.",
+   "note": "Good day reported, best early and late; steelhead scattered top to bottom in pocket and transition water; pressure up.",
    "rating": "good",
    "scope": "river",
    "src": "Whitaker's Nov 23",
@@ -291,7 +296,7 @@
   },
   {
    "date": "2026-11-23",
-   "note": "Most anglers had another good day; steelhead spread top to bottom, holding in pocket and transition water; heavier weekend pressure.",
+   "note": "Good day reported, best early and late; steelhead scattered top to bottom in pocket and transition water; pressure up.",
    "rating": "good",
    "scope": "river",
    "src": "Whitaker's Nov 23",
@@ -364,34 +369,7 @@
   {
    "date": "2026-11-23",
    "density": "high",
-   "note": "Moderate success with high angler density; most productive in middle portion of the run.",
-   "rating": "moderate",
-   "src": "DSR Nov 23 (whole run)",
-   "stretch": "dsrUpper",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/23/116111/"
-  },
-  {
-   "date": "2026-11-23",
-   "density": "high",
-   "note": "Moderate success with high angler density; most productive in middle portion of the run.",
-   "rating": "moderate",
-   "src": "DSR Nov 23 (whole run)",
-   "stretch": "dsrMid",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/23/116111/"
-  },
-  {
-   "date": "2026-11-23",
-   "density": "high",
-   "note": "Moderate success with high angler density; most productive in middle portion of the run.",
-   "rating": "moderate",
-   "src": "DSR Nov 23 (whole run)",
-   "stretch": "dsrLower",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/23/116111/"
-  },
-  {
-   "date": "2026-11-23",
-   "density": "high",
-   "note": "Moderate steelhead success, most productive mid-run; high angler density; 45°F, Pineville 236 cfs.",
+   "note": "Moderate success across the DSR, middle portion most productive; 185 cfs dam, 45°F.",
    "rating": "moderate",
    "src": "DSR Nov 23 (whole DSR)",
    "stretch": "dsrUpper",
@@ -400,7 +378,7 @@
   {
    "date": "2026-11-23",
    "density": "high",
-   "note": "Moderate steelhead success, most productive mid-run; high angler density; 45°F, Pineville 236 cfs.",
+   "note": "Moderate success across the DSR, middle portion most productive; 185 cfs dam, 45°F.",
    "rating": "moderate",
    "src": "DSR Nov 23 (whole DSR)",
    "stretch": "dsrMid",
@@ -409,7 +387,7 @@
   {
    "date": "2026-11-23",
    "density": "high",
-   "note": "Moderate steelhead success, most productive mid-run; high angler density; 45°F, Pineville 236 cfs.",
+   "note": "Moderate success across the DSR, middle portion most productive; 185 cfs dam, 45°F.",
    "rating": "moderate",
    "src": "DSR Nov 23 (whole DSR)",
    "stretch": "dsrLower",
@@ -1116,5 +1094,5 @@
    "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
- "updated": "2026-11-24 12:47 ET"
+ "updated": "2026-11-24 19:47 ET"
 }
