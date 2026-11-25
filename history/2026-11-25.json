@@ -1,0 +1,267 @@
+{
+ "reports": [
+  {
+   "date": "2026-11-25",
+   "note": "",
+   "rating": "moderate",
+   "src": "angler intel Nov 25",
+   "stretch": "upper"
+  },
+  {
+   "date": "2026-11-24",
+   "density": "moderate",
+   "note": "Slow mornings improving to moderate afternoons; steelhead plus one coho landed; low flows.",
+   "rating": "slowmod",
+   "src": "DSR Nov 24 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-24",
+   "density": "moderate",
+   "note": "Slow mornings improving to moderate afternoons; steelhead plus one coho landed; low flows.",
+   "rating": "slowmod",
+   "src": "DSR Nov 24 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-24",
+   "density": "moderate",
+   "note": "Slow mornings improving to moderate afternoons; steelhead plus one coho landed; low flows.",
+   "rating": "slowmod",
+   "src": "DSR Nov 24 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–Dec 4",
+   "stretch": "upper",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–Dec 4",
+   "stretch": "pulaski",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–Dec 4",
+   "stretch": "middle",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–Dec 4",
+   "stretch": "flyzones",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–Dec 4",
+   "stretch": "dsrUpper",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–Dec 4",
+   "stretch": "dsrMid",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  },
+  {
+   "date": "2026-11-20",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
+   "rating": "slow",
+   "scope": "river",
+   "src": "DEC hotline Nov 20–Dec 4",
+   "stretch": "dsrLower",
+   "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
+  }
+ ],
+ "conditions": {
+  "crowded": false,
+  "dam_cfs": 185,
+  "date": "2026-11-25",
+  "pineville_cfs": 232,
+  "water_f": 45,
+  "water_src": "Whitaker's site banner Nov 25"
+ },
+ "colors": [
+  {
+   "color": "seeker",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "really roe",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "tangerine",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "glo roe",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "white",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "blue",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "purple",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "pink",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "peach",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "cheese",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "cream",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "chartreuse",
+   "date": "2026-11-19",
+   "src": "On The Water Nov 19"
+  },
+  {
+   "color": "chartreuse",
+   "date": "2026-11-24",
+   "src": "Whitaker's (Orvis) Nov 24"
+  },
+  {
+   "color": "peach",
+   "date": "2026-11-24",
+   "src": "Whitaker's (Orvis) Nov 24"
+  },
+  {
+   "color": "cerise",
+   "date": "2026-11-24",
+   "src": "Whitaker's (Orvis) Nov 24"
+  },
+  {
+   "color": "pink",
+   "date": "2026-11-24",
+   "src": "Whitaker's (Orvis) Nov 24"
+  },
+  {
+   "color": "blue",
+   "date": "2026-11-24",
+   "src": "Whitaker's (Orvis) Nov 24"
+  },
+  {
+   "color": "orange",
+   "date": "2026-11-24",
+   "src": "Whitaker's (Orvis) Nov 24"
+  },
+  {
+   "color": "purple",
+   "date": "2026-11-24",
+   "src": "Whitaker's (Orvis) Nov 24"
+  },
+  {
+   "color": "pink",
+   "date": "2026-11-23",
+   "src": "Whitaker's Nov 23"
+  }
+ ],
+ "catskills": [
+  {
+   "date": "2026-11-16",
+   "note": "Not fishing; fish spawning, leave them alone. If going: Clousers, Deceivers, Buggers in black, white, olive #4–6.",
+   "rating": "slow",
+   "river": "wb",
+   "spawn": true,
+   "src": "West Branch Angler Nov 16",
+   "url": "https://fishingreports.orvis.com/northeast/new-york/delaware-river-west-branch"
+  },
+  {
+   "date": "2026-11-13",
+   "note": "Upper West a best bet but fish spawning: protect redds, target rainbows; streamers, nymphs, olives and caddis.",
+   "rating": "moderate",
+   "river": "wb",
+   "spawn": true,
+   "src": "Trout Town Flies Nov 13"
+  },
+  {
+   "date": "2026-11-13",
+   "note": "Upper East a best bet; wadeable at Harvard 453 cfs, 43.5°F; streamers, nymphs, olives, caddis.",
+   "rating": "modgood",
+   "river": "eb",
+   "src": "Trout Town Flies Nov 13"
+  },
+  {
+   "date": "2026-11-13",
+   "note": "High (1,430 cfs), tinted, limited wading, 44°F.",
+   "rating": "slowmod",
+   "river": "bk",
+   "src": "Trout Town Flies Nov 13"
+  },
+  {
+   "date": "2026-11-13",
+   "note": "327 cfs, tinted, limited wading, 44°F.",
+   "rating": "slowmod",
+   "river": "wm",
+   "src": "Trout Town Flies Nov 13"
+  },
+  {
+   "date": "2026-11-13",
+   "note": "Bridgeville 238 cfs, 46°F, wadeable.",
+   "rating": "moderate",
+   "river": "ns",
+   "src": "Trout Town Flies Nov 13"
+  },
+  {
+   "date": "2026-11-09",
+   "note": "Fish spawning; leave them alone. Streamers black, white or olive #4–6 if you go.",
+   "rating": "slow",
+   "river": "wb",
+   "spawn": true,
+   "src": "West Branch Angler Nov 9",
+   "url": "https://fishingreports.orvis.com/northeast/new-york/delaware-river-west-branch"
+  }
+ ]
+}

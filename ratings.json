@@ -158,26 +158,33 @@
   }
  ],
  "conditions": {
-  "crowded": true,
+  "crowded": false,
   "dam_cfs": 185,
-  "date": "2026-11-24",
-  "pineville_cfs": 236,
-  "water_f": 44,
-  "water_src": "Whitaker's (Orvis) Nov 24"
+  "date": "2026-11-25",
+  "pineville_cfs": 232,
+  "water_f": 45,
+  "water_src": "Whitaker's site banner Nov 25"
  },
  "errors": [
-  "DSR: newest still Nov 23 (whole DSR moderate, density high, middle portion most productive); no AM/PM, sections or colors.",
-  "Whitaker's blog: newest Nov 23 (good day, fish scattered top to bottom); no water temp in post; Nov 24 Orvis rows from earlier run kept.",
+  "DSR: newest Nov 24 (whole DSR slow AM to moderate PM, density low to moderate); no sections, water temp or colors.",
+  "Whitaker's: newest post Nov 25 is holiday hours only, no fishing report; Nov 23 already recorded.",
   "On The Water: newest still Nov 19.",
-  "DEC hotline: Nov 20–27 report unchanged.",
-  "Paul's Guide Service: newest Nov 23.",
+  "DEC hotline: now labeled Nov 20 to Dec 4 (flows as of Nov 18); replaced earlier Nov 20–27 rows.",
+  "Paul's Guide Service: newest still Nov 23.",
   "Dette Flies: page only partly readable; newest visible entry Sep 21 (stale).",
-  "Beaverkill weekly: newest report Oct 4 (stale).",
-  "West Branch Angler: still Nov 16 update; nothing new.",
+  "Beaverkill weekly: newest Oct 4 (stale).",
+  "West Branch Angler: still Nov 16 update.",
   "Trout Town Flies / Catskills search: no reports dated within 10 days found."
  ],
  "reports": [
   {
+   "date": "2026-11-25",
+   "note": "",
+   "rating": "moderate",
+   "src": "angler intel Nov 25",
+   "stretch": "upper"
+  },
+  {
    "date": "2026-11-24",
    "note": "Steelhead scattered top to bottom, holding in pocket and transition water; egg patterns, streamers, nymphs producing steady results.",
    "rating": "scattered",
@@ -239,6 +246,33 @@
    "src": "Whitaker's (Orvis) Nov 24",
    "stretch": "dsrLower",
    "url": "https://fishingreports.orvis.com/northeast/new-york/salmon-river"
+  },
+  {
+   "date": "2026-11-24",
+   "density": "moderate",
+   "note": "Slow mornings improving to moderate afternoons; steelhead plus one coho landed; low flows.",
+   "rating": "slowmod",
+   "src": "DSR Nov 24 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-24",
+   "density": "moderate",
+   "note": "Slow mornings improving to moderate afternoons; steelhead plus one coho landed; low flows.",
+   "rating": "slowmod",
+   "src": "DSR Nov 24 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-24",
+   "density": "moderate",
+   "note": "Slow mornings improving to moderate afternoons; steelhead plus one coho landed; low flows.",
+   "rating": "slowmod",
+   "src": "DSR Nov 24 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   },
   {
    "date": "2026-11-23",
@@ -539,64 +573,64 @@
   },
   {
    "date": "2026-11-20",
-   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
    "rating": "slow",
    "scope": "river",
-   "src": "DEC hotline Nov 20–27",
+   "src": "DEC hotline Nov 20–Dec 4",
    "stretch": "upper",
    "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
   },
   {
    "date": "2026-11-20",
-   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
    "rating": "slow",
    "scope": "river",
-   "src": "DEC hotline Nov 20–27",
+   "src": "DEC hotline Nov 20–Dec 4",
    "stretch": "pulaski",
    "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
   },
   {
    "date": "2026-11-20",
-   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
    "rating": "slow",
    "scope": "river",
-   "src": "DEC hotline Nov 20–27",
+   "src": "DEC hotline Nov 20–Dec 4",
    "stretch": "middle",
    "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
   },
   {
    "date": "2026-11-20",
-   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
    "rating": "slow",
    "scope": "river",
-   "src": "DEC hotline Nov 20–27",
+   "src": "DEC hotline Nov 20–Dec 4",
    "stretch": "flyzones",
    "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
   },
   {
    "date": "2026-11-20",
-   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
    "rating": "slow",
    "scope": "river",
-   "src": "DEC hotline Nov 20–27",
+   "src": "DEC hotline Nov 20–Dec 4",
    "stretch": "dsrUpper",
    "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
   },
   {
    "date": "2026-11-20",
-   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
    "rating": "slow",
    "scope": "river",
-   "src": "DEC hotline Nov 20–27",
+   "src": "DEC hotline Nov 20–Dec 4",
    "stretch": "dsrMid",
    "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
   },
   {
    "date": "2026-11-20",
-   "note": "Fishing starting to slow river-wide; browns and a few steelhead on floating eggs or beads. 244 cfs Nov 18.",
+   "note": "Salmon slowing river-wide; browns and a few steelhead caught; try floating eggs or beads.",
    "rating": "slow",
    "scope": "river",
-   "src": "DEC hotline Nov 20–27",
+   "src": "DEC hotline Nov 20–Dec 4",
    "stretch": "dsrLower",
    "url": "https://dec.ny.gov/things-to-do/freshwater-fishing/central-new-york-hotline"
   },
@@ -1002,97 +1036,7 @@
    "src": "DSR Nov 15 (whole DSR)",
    "stretch": "dsrLower",
    "url": "https://douglastonsalmonrun.com/fishing-reports/"
-  },
-  {
-   "date": "2026-11-14",
-   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 14",
-   "stretch": "upper",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
-  },
-  {
-   "date": "2026-11-14",
-   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 14",
-   "stretch": "pulaski",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
-  },
-  {
-   "date": "2026-11-14",
-   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 14",
-   "stretch": "middle",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
-  },
-  {
-   "date": "2026-11-14",
-   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 14",
-   "stretch": "flyzones",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
-  },
-  {
-   "date": "2026-11-14",
-   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 14",
-   "stretch": "dsrUpper",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
-  },
-  {
-   "date": "2026-11-14",
-   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 14",
-   "stretch": "dsrMid",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
-  },
-  {
-   "date": "2026-11-14",
-   "note": "Mixed results by location; steelhead spread top to bottom, holding in pocket and transition water; egg patterns working.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 14",
-   "stretch": "dsrLower",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1204"
-  },
-  {
-   "date": "2026-11-14",
-   "density": "high",
-   "note": "Slow to moderate steelhead action across the run with heavy angler pressure.",
-   "rating": "slowmod",
-   "src": "DSR Nov 14 (whole DSR)",
-   "stretch": "dsrUpper",
-   "url": "https://douglastonsalmonrun.com/fishing-reports/"
-  },
-  {
-   "date": "2026-11-14",
-   "density": "high",
-   "note": "Slow to moderate steelhead action across the run with heavy angler pressure.",
-   "rating": "slowmod",
-   "src": "DSR Nov 14 (whole DSR)",
-   "stretch": "dsrMid",
-   "url": "https://douglastonsalmonrun.com/fishing-reports/"
-  },
-  {
-   "date": "2026-11-14",
-   "density": "high",
-   "note": "Slow to moderate steelhead action across the run with heavy angler pressure.",
-   "rating": "slowmod",
-   "src": "DSR Nov 14 (whole DSR)",
-   "stretch": "dsrLower",
-   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
- "updated": "2026-11-24 19:47 ET"
+ "updated": "2026-11-25 12:48 ET"
 }
