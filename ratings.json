@@ -167,10 +167,10 @@
  },
  "errors": [
   "DSR: newest Nov 24 (whole DSR slow AM to moderate PM, density low to moderate); no sections, water temp or colors.",
-  "Whitaker's: newest post Nov 25 is holiday hours only, no fishing report; Nov 23 already recorded.",
+  "Whitaker's: newest post Nov 25 is holiday hours only, no fishing report; Nov 23 outside window.",
   "On The Water: newest still Nov 19.",
-  "DEC hotline: now labeled Nov 20 to Dec 4 (flows as of Nov 18); replaced earlier Nov 20–27 rows.",
-  "Paul's Guide Service: newest still Nov 23.",
+  "DEC hotline: Nov 20 to Dec 4 (flows as of Nov 18), unchanged.",
+  "Paul's Guide Service: newest still Nov 23; Oct 23 page blocked by verification interstitial.",
   "Dette Flies: page only partly readable; newest visible entry Sep 21 (stale).",
   "Beaverkill weekly: newest Oct 4 (stale).",
   "West Branch Angler: still Nov 16 update.",
@@ -1038,5 +1038,5 @@
    "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
- "updated": "2026-11-25 12:48 ET"
+ "updated": "2026-11-25 19:48 ET"
 }
