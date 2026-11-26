@@ -160,17 +160,17 @@
  "conditions": {
   "crowded": false,
   "dam_cfs": 185,
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "pineville_cfs": 232,
   "water_f": 45,
-  "water_src": "Whitaker's site banner Nov 25"
+  "water_src": "DSR Nov 23 (also Paul's Guide Service Nov 23)"
  },
  "errors": [
-  "DSR: newest Nov 24 (whole DSR slow AM to moderate PM, density low to moderate); no sections, water temp or colors.",
-  "Whitaker's: newest post Nov 25 is holiday hours only, no fishing report; Nov 23 outside window.",
+  "DSR: newest Nov 25 (homepage only; whole DSR slow, density low to moderate); no sections, water temp or colors.",
+  "Whitaker's: newest post Nov 25 is holiday hours only (shop closed Thanksgiving), no fishing report.",
   "On The Water: newest still Nov 19.",
   "DEC hotline: Nov 20 to Dec 4 (flows as of Nov 18), unchanged.",
-  "Paul's Guide Service: newest still Nov 23; Oct 23 page blocked by verification interstitial.",
+  "Paul's Guide Service: newest still Nov 23.",
   "Dette Flies: page only partly readable; newest visible entry Sep 21 (stale).",
   "Beaverkill weekly: newest Oct 4 (stale).",
   "West Branch Angler: still Nov 16 update.",
@@ -185,6 +185,33 @@
    "stretch": "upper"
   },
   {
+   "date": "2026-11-25",
+   "density": "moderate",
+   "note": "Slow all day; steelhead only; low flows, 232 cfs at Pineville; angler limit 50.",
+   "rating": "slow",
+   "src": "DSR Nov 25 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/25/116223/"
+  },
+  {
+   "date": "2026-11-25",
+   "density": "moderate",
+   "note": "Slow all day; steelhead only; low flows, 232 cfs at Pineville; angler limit 50.",
+   "rating": "slow",
+   "src": "DSR Nov 25 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/25/116223/"
+  },
+  {
+   "date": "2026-11-25",
+   "density": "moderate",
+   "note": "Slow all day; steelhead only; low flows, 232 cfs at Pineville; angler limit 50.",
+   "rating": "slow",
+   "src": "DSR Nov 25 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/25/116223/"
+  },
+  {
    "date": "2026-11-24",
    "note": "Steelhead scattered top to bottom, holding in pocket and transition water; egg patterns, streamers, nymphs producing steady results.",
    "rating": "scattered",
@@ -993,50 +1020,7 @@
    "src": "DSR Nov 16 (whole DSR)",
    "stretch": "dsrLower",
    "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
-  },
-  {
-   "date": "2026-11-15",
-   "density": "high",
-   "note": "",
-   "rating": "moderate",
-   "src": "angler intel Nov 15",
-   "stretch": "upper"
-  },
-  {
-   "date": "2026-11-15",
-   "density": "low",
-   "note": "",
-   "rating": "slow",
-   "src": "angler intel Nov 15",
-   "stretch": "pulaski"
-  },
-  {
-   "date": "2026-11-15",
-   "density": "moderate",
-   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, 41°F.",
-   "rating": "moderate",
-   "src": "DSR Nov 15 (whole DSR)",
-   "stretch": "dsrUpper",
-   "url": "https://douglastonsalmonrun.com/fishing-reports/"
-  },
-  {
-   "date": "2026-11-15",
-   "density": "moderate",
-   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, 41°F.",
-   "rating": "moderate",
-   "src": "DSR Nov 15 (whole DSR)",
-   "stretch": "dsrMid",
-   "url": "https://douglastonsalmonrun.com/fishing-reports/"
-  },
-  {
-   "date": "2026-11-15",
-   "density": "moderate",
-   "note": "Moderate success across the run, most anglers hooking steelhead; clear water, 41°F.",
-   "rating": "moderate",
-   "src": "DSR Nov 15 (whole DSR)",
-   "stretch": "dsrLower",
-   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
- "updated": "2026-11-25 19:48 ET"
+ "updated": "2026-11-26 12:50 ET"
 }
