@@ -57,66 +57,6 @@
  ],
  "colors": [
   {
-   "color": "seeker",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "really roe",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "tangerine",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "glo roe",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "white",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "blue",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "purple",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "pink",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "peach",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "cheese",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "cream",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
-   "color": "chartreuse",
-   "date": "2026-11-19",
-   "src": "On The Water Nov 19"
-  },
-  {
    "color": "chartreuse",
    "date": "2026-11-24",
    "src": "Whitaker's (Orvis) Nov 24"
@@ -160,18 +100,18 @@
  "conditions": {
   "crowded": true,
   "dam_cfs": 185,
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "pineville_cfs": 232,
-  "water_f": 45,
-  "water_src": "DSR Nov 23 (also Paul's Guide Service Nov 23)"
+  "water_f": 44,
+  "water_src": "Whitaker's (Orvis) Nov 24"
  },
  "errors": [
-  "DSR: newest Nov 26 (whole DSR moderate to good, density high); no sections, water temp or colors named.",
-  "Whitaker's: newest post Nov 25 is holiday hours only; no new fishing report.",
-  "On The Water: Nov 25 Upstate report has no Salmon River section (only an unnamed Oswego County mention); not used.",
+  "DSR: newest Nov 26 (whole DSR moderate to good, density high); no report yet for Nov 27; no sections, water temp or colors named.",
+  "Whitaker's: newest post Nov 25 is holiday hours only; Orvis fallback still last updated Nov 24 (river-wide scattered, 44F).",
+  "On The Water: Nov 25 Upstate report has no Salmon River section; not used.",
   "DEC hotline: Nov 20 to Dec 4 (flows as of Nov 18), unchanged.",
   "Paul's Guide Service: newest still Nov 23.",
-  "Dette Flies: newest visible entry is April 2024 (stale).",
+  "Dette Flies: newest visible entry Sept 21 (stale).",
   "Beaverkill weekly: newest Oct 4 (stale).",
   "West Branch Angler: still Nov 16 update.",
   "Trout Town Flies / Catskills search: no reports dated within 10 days found."
@@ -180,29 +120,29 @@
   {
    "date": "2026-11-26",
    "density": "high",
-   "note": "Moderate to good, improved from yesterday; steelhead; dam 185 cfs, Pineville 232 cfs; high angler density.",
+   "note": "Moderate to good across the run, improved from prior day; heavy angler pressure.",
    "rating": "modgood",
    "src": "DSR Nov 26 (whole DSR)",
    "stretch": "dsrUpper",
-   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/26/116259/"
   },
   {
    "date": "2026-11-26",
    "density": "high",
-   "note": "Moderate to good, improved from yesterday; steelhead; dam 185 cfs, Pineville 232 cfs; high angler density.",
+   "note": "Moderate to good across the run, improved from prior day; heavy angler pressure.",
    "rating": "modgood",
    "src": "DSR Nov 26 (whole DSR)",
    "stretch": "dsrMid",
-   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/26/116259/"
   },
   {
    "date": "2026-11-26",
    "density": "high",
-   "note": "Moderate to good, improved from yesterday; steelhead; dam 185 cfs, Pineville 232 cfs; high angler density.",
+   "note": "Moderate to good across the run, improved from prior day; heavy angler pressure.",
    "rating": "modgood",
    "src": "DSR Nov 26 (whole DSR)",
    "stretch": "dsrLower",
-   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/26/116259/"
   },
   {
    "date": "2026-11-25",
@@ -957,97 +897,7 @@
    "src": "DSR Nov 17 (whole DSR)",
    "stretch": "dsrLower",
    "url": "https://douglastonsalmonrun.com/"
-  },
-  {
-   "date": "2026-11-16",
-   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 16",
-   "stretch": "upper",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
-  },
-  {
-   "date": "2026-11-16",
-   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 16",
-   "stretch": "pulaski",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
-  },
-  {
-   "date": "2026-11-16",
-   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 16",
-   "stretch": "middle",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
-  },
-  {
-   "date": "2026-11-16",
-   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 16",
-   "stretch": "flyzones",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
-  },
-  {
-   "date": "2026-11-16",
-   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 16",
-   "stretch": "dsrUpper",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
-  },
-  {
-   "date": "2026-11-16",
-   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 16",
-   "stretch": "dsrMid",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
-  },
-  {
-   "date": "2026-11-16",
-   "note": "Mixed results by spot and skill; steelhead scattered top to bottom in pocket and transition water; egg patterns steady.",
-   "rating": "moderate",
-   "scope": "river",
-   "src": "Whitaker's Nov 16",
-   "stretch": "dsrLower",
-   "url": "https://whitakers.com/blogs/daily-report/daily-report-1205"
-  },
-  {
-   "date": "2026-11-16",
-   "density": "high",
-   "note": "Moderate to good across the run, most anglers hooking steelhead; heavy pressure, 41°F.",
-   "rating": "modgood",
-   "src": "DSR Nov 16 (whole DSR)",
-   "stretch": "dsrUpper",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
-  },
-  {
-   "date": "2026-11-16",
-   "density": "high",
-   "note": "Moderate to good across the run, most anglers hooking steelhead; heavy pressure, 41°F.",
-   "rating": "modgood",
-   "src": "DSR Nov 16 (whole DSR)",
-   "stretch": "dsrMid",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
-  },
-  {
-   "date": "2026-11-16",
-   "density": "high",
-   "note": "Moderate to good across the run, most anglers hooking steelhead; heavy pressure, 41°F.",
-   "rating": "modgood",
-   "src": "DSR Nov 16 (whole DSR)",
-   "stretch": "dsrLower",
-   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
   }
  ],
- "updated": "2026-11-26 19:47 ET"
+ "updated": "2026-11-27 12:48 ET"
 }
