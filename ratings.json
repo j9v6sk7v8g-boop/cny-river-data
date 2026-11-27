@@ -158,7 +158,7 @@
   }
  ],
  "conditions": {
-  "crowded": false,
+  "crowded": true,
   "dam_cfs": 185,
   "date": "2026-11-26",
   "pineville_cfs": 232,
@@ -166,17 +166,44 @@
   "water_src": "DSR Nov 23 (also Paul's Guide Service Nov 23)"
  },
  "errors": [
-  "DSR: newest Nov 25 (homepage only; whole DSR slow, density low to moderate); no sections, water temp or colors.",
-  "Whitaker's: newest post Nov 25 is holiday hours only (shop closed Thanksgiving), no fishing report.",
-  "On The Water: newest still Nov 19.",
+  "DSR: newest Nov 26 (whole DSR moderate to good, density high); no sections, water temp or colors named.",
+  "Whitaker's: newest post Nov 25 is holiday hours only; no new fishing report.",
+  "On The Water: Nov 25 Upstate report has no Salmon River section (only an unnamed Oswego County mention); not used.",
   "DEC hotline: Nov 20 to Dec 4 (flows as of Nov 18), unchanged.",
   "Paul's Guide Service: newest still Nov 23.",
-  "Dette Flies: page only partly readable; newest visible entry Sep 21 (stale).",
+  "Dette Flies: newest visible entry is April 2024 (stale).",
   "Beaverkill weekly: newest Oct 4 (stale).",
   "West Branch Angler: still Nov 16 update.",
   "Trout Town Flies / Catskills search: no reports dated within 10 days found."
  ],
  "reports": [
+  {
+   "date": "2026-11-26",
+   "density": "high",
+   "note": "Moderate to good, improved from yesterday; steelhead; dam 185 cfs, Pineville 232 cfs; high angler density.",
+   "rating": "modgood",
+   "src": "DSR Nov 26 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-26",
+   "density": "high",
+   "note": "Moderate to good, improved from yesterday; steelhead; dam 185 cfs, Pineville 232 cfs; high angler density.",
+   "rating": "modgood",
+   "src": "DSR Nov 26 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-26",
+   "density": "high",
+   "note": "Moderate to good, improved from yesterday; steelhead; dam 185 cfs, Pineville 232 cfs; high angler density.",
+   "rating": "modgood",
+   "src": "DSR Nov 26 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
   {
    "date": "2026-11-25",
    "note": "",
@@ -1022,5 +1049,5 @@
    "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/16/115766/"
   }
  ],
- "updated": "2026-11-26 12:50 ET"
+ "updated": "2026-11-26 19:47 ET"
 }

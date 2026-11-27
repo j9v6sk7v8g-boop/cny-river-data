@@ -26,10 +26,37 @@
    "src": "DSR Nov 25 (whole DSR)",
    "stretch": "dsrLower",
    "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/25/116223/"
+  },
+  {
+   "date": "2026-11-26",
+   "density": "high",
+   "note": "Moderate to good, improved from yesterday; steelhead; dam 185 cfs, Pineville 232 cfs; high angler density.",
+   "rating": "modgood",
+   "src": "DSR Nov 26 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-26",
+   "density": "high",
+   "note": "Moderate to good, improved from yesterday; steelhead; dam 185 cfs, Pineville 232 cfs; high angler density.",
+   "rating": "modgood",
+   "src": "DSR Nov 26 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "date": "2026-11-26",
+   "density": "high",
+   "note": "Moderate to good, improved from yesterday; steelhead; dam 185 cfs, Pineville 232 cfs; high angler density.",
+   "rating": "modgood",
+   "src": "DSR Nov 26 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
   }
  ],
  "conditions": {
-  "crowded": false,
+  "crowded": true,
   "dam_cfs": 185,
   "date": "2026-11-26",
   "pineville_cfs": 232,
