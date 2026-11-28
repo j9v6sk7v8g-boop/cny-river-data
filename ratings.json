@@ -101,22 +101,49 @@
   "crowded": true,
   "dam_cfs": 185,
   "date": "2026-11-27",
-  "pineville_cfs": 232,
+  "pineville_cfs": 281,
   "water_f": 44,
   "water_src": "Whitaker's (Orvis) Nov 24"
  },
  "errors": [
-  "DSR: newest Nov 26 (whole DSR moderate to good, density high); no report yet for Nov 27; no sections, water temp or colors named.",
-  "Whitaker's: newest post Nov 25 is holiday hours only; Orvis fallback still last updated Nov 24 (river-wide scattered, 44F).",
+  "DSR: newest Nov 27 (whole DSR slow to good, density high, Pineville 281 cfs); no sections, water temp or colors named.",
+  "Whitaker's: newest post Nov 25 is holiday hours only; last fishing post Nov 23; Orvis fallback still Nov 24 (outside D-1 window).",
   "On The Water: Nov 25 Upstate report has no Salmon River section; not used.",
   "DEC hotline: Nov 20 to Dec 4 (flows as of Nov 18), unchanged.",
   "Paul's Guide Service: newest still Nov 23.",
   "Dette Flies: newest visible entry Sept 21 (stale).",
   "Beaverkill weekly: newest Oct 4 (stale).",
-  "West Branch Angler: still Nov 16 update.",
+  "West Branch Angler: still Nov 16 update (now outside 10-day window).",
   "Trout Town Flies / Catskills search: no reports dated within 10 days found."
  ],
  "reports": [
+  {
+   "date": "2026-11-27",
+   "density": "high",
+   "note": "Mixed day, slow to good across the run; water clarity under 2 ft early morning; steelhead.",
+   "rating": "moderate",
+   "src": "DSR Nov 27 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/27/116306/"
+  },
+  {
+   "date": "2026-11-27",
+   "density": "high",
+   "note": "Mixed day, slow to good across the run; water clarity under 2 ft early morning; steelhead.",
+   "rating": "moderate",
+   "src": "DSR Nov 27 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/27/116306/"
+  },
+  {
+   "date": "2026-11-27",
+   "density": "high",
+   "note": "Mixed day, slow to good across the run; water clarity under 2 ft early morning; steelhead.",
+   "rating": "moderate",
+   "src": "DSR Nov 27 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/27/116306/"
+  },
   {
    "date": "2026-11-26",
    "density": "high",
@@ -899,5 +926,5 @@
    "url": "https://douglastonsalmonrun.com/"
   }
  ],
- "updated": "2026-11-27 12:48 ET"
+ "updated": "2026-11-27 19:47 ET"
 }

@@ -1,10 +1,38 @@
 {
- "reports": [],
+ "reports": [
+  {
+   "date": "2026-11-27",
+   "density": "high",
+   "note": "Mixed day, slow to good across the run; water clarity under 2 ft early morning; steelhead.",
+   "rating": "moderate",
+   "src": "DSR Nov 27 (whole DSR)",
+   "stretch": "dsrUpper",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/27/116306/"
+  },
+  {
+   "date": "2026-11-27",
+   "density": "high",
+   "note": "Mixed day, slow to good across the run; water clarity under 2 ft early morning; steelhead.",
+   "rating": "moderate",
+   "src": "DSR Nov 27 (whole DSR)",
+   "stretch": "dsrMid",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/27/116306/"
+  },
+  {
+   "date": "2026-11-27",
+   "density": "high",
+   "note": "Mixed day, slow to good across the run; water clarity under 2 ft early morning; steelhead.",
+   "rating": "moderate",
+   "src": "DSR Nov 27 (whole DSR)",
+   "stretch": "dsrLower",
+   "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/27/116306/"
+  }
+ ],
  "conditions": {
   "crowded": true,
   "dam_cfs": 185,
   "date": "2026-11-27",
-  "pineville_cfs": 232,
+  "pineville_cfs": 281,
   "water_f": 44,
   "water_src": "Whitaker's (Orvis) Nov 24"
  },
